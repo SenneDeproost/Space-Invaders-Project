@@ -11,7 +11,7 @@ p = pause
 
 POWERUPS:
 red = double fire power
-yellow = fleet don't moves down for a while
+yellow = fleet doesn't move down for a while
 white = fleet gets faster
 
 © Senne Deproost
